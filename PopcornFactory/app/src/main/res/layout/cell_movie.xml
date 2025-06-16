@@ -12,13 +12,13 @@
         android:scaleType="fitXY"/>
 
     <TextView
+        android:id="@+id/movie_title_cell"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/mustard"
         android:textSize="15sp"
         android:fontFamily="sans-serif-light"
         android:layout_gravity="center"
-        android:id="@+id/movie_title_cell"
         />
 
 </LinearLayout>
